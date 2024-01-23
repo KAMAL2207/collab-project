@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .footer{
     margin-top: 10px;
     padding-top: 20px;
@@ -15,8 +15,7 @@
     height: 40px;
     width: 120px;
     font-size: large;
-    
-=======
+}
 *{
     margin: 0;
     padding: 0;
@@ -56,5 +55,4 @@
 #child2 img{
     height: 60vh;
     width: 100%;
->>>>>>> 1df8aa32c9063fdc827c0af94804f7d9984c541e
 }
