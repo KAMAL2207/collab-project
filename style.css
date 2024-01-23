@@ -1,21 +1,3 @@
-
-.footer{
-    margin-top: 10px;
-    padding-top: 20px;
-    background-color: rgb(9, 3, 56);
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    border: solid gold ;
-}
-#button{
-    margin-top: 10px;
-    margin-left: 45%;
-    border-radius: 10px;
-    height: 40px;
-    width: 120px;
-    font-size: large;
-}
 *{
     margin: 0;
     padding: 0;
@@ -55,4 +37,21 @@
 #child2 img{
     height: 60vh;
     width: 100%;
+}
+.footer{
+    margin-top: 10px;
+    padding-top: 20px;
+    background-color: rgb(9, 3, 56);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    border: solid gold ;
+}
+#button{
+    margin-top: 10px;
+    margin-left: 45%;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    font-size: large;
 }
